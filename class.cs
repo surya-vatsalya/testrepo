@@ -5,5 +5,6 @@ namespace CsharpTutorials
     string name;
         int age;
         int gay;
+        string bro;
   }
 }
