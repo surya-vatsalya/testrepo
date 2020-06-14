@@ -11,6 +11,7 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
+            string a = "new";
 
             Console.WriteLine(message);
         }
