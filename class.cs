@@ -6,7 +6,7 @@ namespace CsharpTutorials
         int age;
         int gay;
         string bro;
-        string dad;
-        int dad_age;
+        string mom;
+        int mom_age;
   }
 }
