@@ -8,5 +8,8 @@ namespace CsharpTutorials
         string bro;
         string mom;
         int mom_age;
+        string sister;
+        int sis_age;
+
   }
 }
